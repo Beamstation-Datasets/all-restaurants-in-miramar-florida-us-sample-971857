@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Miramar in the Sunshine State with a population of over 134k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Miramar, Florida, US",
+  "export_job_id": "07f1b79d-66e4-401a-ba1d-884af7522655",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 971857,
+  "location_name": "Miramar",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-miramar-florida-us-sample-971857",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/971857/beamstation_971857_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.57,
+  "sample_records": 22,
+  "sample_sha256": "c2c70f37d90d2277c76b7e24a60efe35587c2f79df986ab232a33be3903f65e8",
+  "sample_size_bytes": 99138,
+  "total_records": 230,
+  "updated_at": "2026-04-07T11:08:33.330034+00:00"
+}
