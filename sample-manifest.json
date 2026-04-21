@@ -1,12 +1,12 @@
 {
-  "export_job_id": "338f243c-9379-4c4f-9b43-d8774b386941",
+  "export_job_id": "2dd847a5-b751-41eb-a15a-5a5045f03d78",
   "id_short": 971857,
-  "published_at": "2026-04-18T07:18:01Z",
+  "published_at": "2026-04-21T20:01:23Z",
   "repo_name": "all-restaurants-in-miramar-florida-us-sample-971857",
   "sample_asset_name": "beamstation_971857_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/971857/beamstation_971857_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 22,
-  "sample_sha256": "c2c70f37d90d2277c76b7e24a60efe35587c2f79df986ab232a33be3903f65e8",
-  "sample_size_bytes": 99138,
-  "total_records": 227
+  "sample_records": 9,
+  "sample_sha256": "77520f4ba668356084b925ad3ce4dbff7d74fa6962c7b2206365baac221487bb",
+  "sample_size_bytes": 51120,
+  "total_records": 95
 }
