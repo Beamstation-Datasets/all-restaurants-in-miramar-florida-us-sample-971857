@@ -9,9 +9,9 @@
 | Dataset ID | `971857` |
 | Location | Miramar |
 | Category | Restaurants |
-| Full dataset size | 273 records |
-| Free sample size | 27 records (9.89%) |
-| Last export | 2026-04-28T12:01:04.173538+00:00 |
+| Full dataset size | 279 records |
+| Free sample size | 27 records (9.68%) |
+| Last export | 2026-05-05T17:16:44.462909+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-miramar-florida-us-sample-971857/releases/download/sample-latest/beamstation_971857_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
